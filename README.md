@@ -14,5 +14,7 @@ After reading and processing is over, the program gives two options to the user.
 
 
 a. List the most popular words
+
 b. List total number of words.
+
 c. Print the counter value of a specific word
